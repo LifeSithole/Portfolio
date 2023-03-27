@@ -1,0 +1,176 @@
+.hero-section {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  border-color: white;
+}
+.hero-section .life {
+  margin-left: 30%;
+  margin-top: 16%;
+}
+.hero-section .title {
+  color: #2E9989;
+}
+.hero-section .title2 {
+  color: white;
+}
+.hero-section .but {
+  margin-left: 73%;
+}
+
+.HeroSection {
+  background-color: black;
+  line-height: 1.5;
+  padding: 0 0 300px;
+  padding-bottom: 49px;
+}
+.HeroSection nav {
+  background-color: black;
+  padding-bottom: 125px;
+  margin-right: 26%;
+}
+.HeroSection nav div .innernav img {
+  width: 20%;
+}
+.HeroSection nav div #navbarNav ul a {
+  color: white;
+}
+.HeroSection nav div #navbarNav ul a:hover {
+  color: #2E9989;
+}
+.HeroSection .hero .innerHero {
+  padding-left: 292px;
+}
+.HeroSection .hero .secHero {
+  margin-top: 50px;
+}
+.HeroSection .hero .secHero h1 {
+  color: #2E9989;
+  font-size: 50px;
+  width: 50%;
+}
+.HeroSection .hero .secHero p {
+  color: white;
+  font-size: 20px;
+}
+.HeroSection .hero .arrow {
+  text-align: center;
+  margin: 5% 0;
+  margin-bottom: -2%;
+}
+
+.about .firstAbout {
+  margin: 5% 0 0 0;
+}
+.about .firstAbout img {
+  margin-left: 14%;
+}
+.about .secAbout {
+  margin: 14% 0 0 0;
+}
+.about .secAbout h2 {
+  color: #2E9989;
+  padding-bottom: 5%;
+}
+.about .secAbout p {
+  padding-bottom: 5%;
+}
+.about .secAbout img {
+  width: 8%;
+  margin-left: 45px;
+  margin-bottom: 5%;
+}
+
+.skills {
+  text-align: center;
+  padding: 0 0 10% 0;
+  background-color: black;
+}
+.skills h2 {
+  color: #2E9989;
+  padding: 5% 0;
+}
+.skills .container {
+  padding: 2% 15% 2% 15%;
+}
+.skills .container .col-md-4 img {
+  width: 35%;
+}
+
+.nala {
+  width: 10%;
+  height: 10%;
+}
+
+.portfolio {
+  text-align: center;
+  padding: 0 0 10% 0;
+}
+.portfolio .star {
+  margin-top: -6%;
+}
+.portfolio .img {
+  margin-top: -11%;
+}
+.portfolio h2 {
+  color: #2E9989;
+  padding: 5% 0;
+}
+
+.contact {
+  background-color: #22494D;
+  text-align: center;
+}
+.contact .container h1 {
+  color: #2E9989;
+  margin-top: 5%;
+}
+.contact .container p {
+  color: black;
+  margin-top: -5%;
+}
+.contact .container img {
+  width: 5%;
+}
+.contact .innerContact {
+  margin-left: 25%;
+}
+.contact .innerContact .form-floating {
+  color: white;
+  font-size: small;
+}
+.contact .innerContact .form-floating input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: #22494D;
+  border-color: grey;
+}
+.contact .innerContact .form-floating textarea {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: #22494D;
+  border-color: grey;
+}
+.contact img {
+  width: 20%;
+}
+
+footer {
+  background-color: black;
+}
+footer .footerIcons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+footer .footerIcons img {
+  width: 1.5%;
+  margin: 0 1%;
+}
+footer p {
+  color: white;
+  text-align: center;
+  font-weight: 5;
+}/*# sourceMappingURL=style.css.map */

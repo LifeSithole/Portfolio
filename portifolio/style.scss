@@ -1,0 +1,171 @@
+.hero-section{background-color: black; height: 100vh;background-size: cover;
+  
+.life{margin-left: 30%;
+    margin-top: 16%;
+}
+.title{color: #2E9989;}
+
+.title2{color: white;
+
+}
+.but{ margin-left: 73%;}
+border-color: white;
+}
+.HeroSection{
+    background-color: black;
+    line-height: 1.5;
+    padding: 0 0 300px;
+    padding-bottom: 49px;
+    
+    nav{
+        background-color: black;
+        padding-bottom: 125px;
+        margin-right: 26%;
+        div{
+    
+            .innernav{
+                img{
+                    width: 20%;  
+                }
+            }
+            #navbarNav{
+                
+                ul{
+                    a{color: white;}
+                    a:hover{
+                        color: #2E9989;
+                    }
+                }
+            }
+        }
+    
+    }
+    .hero{
+        .innerHero{
+            
+                padding-left: 292px;
+                
+            
+        }
+        .secHero{
+            margin-top: 50px;
+            h1{color:#2E9989; font-size: 50px; width: 50%;}
+            p{color: white; font-size: 20px;}
+        }
+        .arrow{
+            text-align: center;
+            margin: 5% 0;
+            margin-bottom: -2%
+        }
+    }
+}
+
+.about{
+    .firstAbout{
+        margin: 5% 0 0 0;
+        img{margin-left: 14%;}
+    }
+    .secAbout{
+        margin: 14% 0 0 0;
+        h2{color:#2E9989; padding-bottom: 5%;}
+        p{padding-bottom: 5%;
+        }
+        img{
+            width: 8%;
+            margin-left: 45px;
+            margin-bottom: 5%;
+        }
+    }
+}
+ .skills{text-align: center;
+    padding: 0 0 10% 0;
+    h2{color:#2E9989; padding: 5% 0;}
+    background-color: black;
+    .container{padding: 2% 15% 2% 15%;
+        .col-md-4{
+            img{width: 35%;}
+        }
+    }
+
+ }
+
+ .nala{
+    width: 10%;
+    height: 10%;
+    
+}
+
+ .portfolio{ text-align: center;
+    .star{margin-top: -6%;}
+    padding: 0 0 10% 0;
+    .img{margin-top: -11%;}
+    h2{color:#2E9989; padding: 5% 0;}
+
+ }
+
+.contact{
+    background-color:#22494D;
+    text-align: center;
+    .container{
+        h1{color:#2E9989;
+            margin-top: 5%;
+         }
+         p{color:black; 
+            margin-top: -5%
+        }
+         img{
+            width: 5%;
+         }
+    }
+    .innerContact{
+        margin-left: 25%;
+        .form-floating{color: white;
+            font-size: small;
+            input{
+            border-top: none;
+            border-left: none;
+            border-right: none; 
+            background-color: #22494D;
+            border-color:grey ;
+            
+        }
+        textarea{
+            border-top: none;
+            border-left: none;
+            border-right: none; 
+            background-color: #22494D;
+            border-color:grey ;
+           
+        }
+        }
+
+    }
+img{
+    width: 20%;
+    
+
+    
+}
+}
+footer{background-color: black;
+    
+    .footerIcons{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    
+        img{
+            width: 1.5%;
+            margin: 0 1%;
+        
+        }
+    }
+    p{
+        color: white;
+        text-align: center;
+        font-weight: 5;
+     
+    }
+}
+
+ 
